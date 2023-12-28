@@ -5,6 +5,6 @@
 - 📫 laurakoles@yandex.ru
 
 **Стек:**
-Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, LightGBM, SQL, BI, статистика, исследовательский анализ
+Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, LightGBM, SQL, BI, проверка статистических гипотез, описательная статистика, исследовательский анализ
 
 
