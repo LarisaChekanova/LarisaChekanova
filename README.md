@@ -3,6 +3,6 @@
 - 🌱 In 2024, I graduated from data scientist
 - 👀 I am currently looking for a job.
 - 📫 laurakoles@yandex.ru
-<!---
-Стек
---->
+
+**Стек:**
+
